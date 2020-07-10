@@ -16,10 +16,10 @@ By day, I write and edit articles about enterprise technology. When I'm not work
 
 - 🤔 I’m looking for help with porting diosix to other CPU architectures, such as OpenPower and Arm, and I will need help with device drivers and building a user interface to manage the hypervisor and its guests.
 
-- 💬 Ask me about Rust, RISC-V, operating system and hypervisor design, computer security, and professional writing and editing.
+- 💬 Ask me about Rust, RISC-V, operating system and hypervisor design, computer security, and professional writing and editing. My [personal website](https://diodesign.co.uk) has some more information about myself and links to things I do.
 
-- 📫 How to reach me: My [personal website](https://diodesign.co.uk) has my latest contact details.
+- 📫 How to reach me: [Twitter](https://twitter.com/diodesign) or [email](diodesign@tuta.io).
 
 - 😄 Pronouns: He and him.
 
-- ⚡ Fun fact: Um, my eyes are two different colors? I can make a pretty good chicken pie. No complaints about my lasagna cheese sauce, either. I'm quietly fascinated by nuclear physics and the internal design of video game consoles I played as a child.
+- ⚡ Fun fact: Um, my eyes are two different colors? I'm quietly fascinated by nuclear physics, and the internal design of video game consoles I played as a child.
