@@ -2,7 +2,7 @@
 
 By day, I write and edit articles about enterprise technology. When I'm not working, this is the sort of thing that keeps me occupied:
 
-- 🔭 I’m currently working on completing Device Tree support in my Rust-RISC-V bare-metal hypervisor, [diosix](https://github.com/diodesign/diosix), so that it can define virtual environments in which Linux and other guest kernels boot.
+- 🔭 I’m currently completing Device Tree support in my Rust-RISC-V bare-metal hypervisor, [diosix](https://github.com/diodesign/diosix), so that it can define virtual environments in which Linux and other guest kernels boot.
   - So far, it parses Device Tree Blobs provided by the bootloader, so that it is aware of the host hardware, and brings up the system.
   - Now, it needs to create blobs to pass to guest kernels.
   - The next step will be to add basic hardware drivers with multiplexing so that multiple virtual machines can share or exclusively use resources, such as the serial port, network interface, and video display.
