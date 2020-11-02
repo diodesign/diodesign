@@ -2,7 +2,7 @@
 
 By day, I write and edit articles about enterprise technology. When I'm not working, this is the sort of thing that keeps me occupied:
 
-- 🔭 I’m impementing a filesystem for my Rust-RISC-V bare-metal hypervisor, [diosix](https://github.com/diodesign/diosix), so that it can locate, load, and run native services that interact with subsequently loaded guest operating systems.
+- 🔭 I’m impementing a filesystem for my Rust-RISC-V bare-metal hypervisor, [diosix](https://github.com/diodesign/diosix), so that it can locate, load, and run native services that interact with subsequently loaded guest operating systems. There's a project page [here](https://github.com/users/diodesign/projects/1) with to-do items and long-term plans.
 
 - 🌱 I’m learning:
   - Chinese as a second language
