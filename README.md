@@ -12,6 +12,6 @@ By day, I write and edit articles about enterprise technology. When I'm not work
 
 - 💬 Ask me about Rust, RISC-V, operating system and hypervisor design, computer security, and professional writing and editing. My [personal website](https://diodesign.co.uk) has some more information about myself and links to things I do.
 
-- 📫 How to reach me: [Twitter](https://twitter.com/diodesign) or [email](diodesign@tuta.io).
+- 📫 How to reach me: [Twitter](https://twitter.com/diodesign) or [email](mailto:diodesign@tuta.io).
 
 - 😄 Pronouns: He and him.
