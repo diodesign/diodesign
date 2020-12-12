@@ -1,6 +1,6 @@
 ### Hey, you found me.
 
-By day, I write and edit articles about enterprise technology. When I'm not working, this is the sort of thing that keeps me occupied:
+By day, I [write and edit](https://www.theregister.com/Author/Chris-Williams) articles about enterprise technology. When I'm not working, this is the sort of thing that keeps me occupied:
 
 - 🔭 I’m implementing system services for my Rust-RISC-V bare-metal hypervisor, [diosix](https://github.com/diodesign/diosix), so that it can provide not only a user interface for folks but also abstractions for guest OSes to access the underlying hardware. There's a project page [here](https://github.com/users/diodesign/projects/1) with to-do items and long-term plans.
 
