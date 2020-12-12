@@ -2,10 +2,10 @@
 
 By day, I write and edit articles about enterprise technology. When I'm not working, this is the sort of thing that keeps me occupied:
 
-- 🔭 I’m impementing a filesystem for my Rust-RISC-V bare-metal hypervisor, [diosix](https://github.com/diodesign/diosix), so that it can locate, load, and run native services that interact with subsequently loaded guest operating systems. There's a project page [here](https://github.com/users/diodesign/projects/1) with to-do items and long-term plans.
+- 🔭 I’m implementing system services for my Rust-RISC-V bare-metal hypervisor, [diosix](https://github.com/diodesign/diosix), so that it can provide not only a user interface for folks but also abstractions for guest OSes to access the underlying hardware. There's a project page [here](https://github.com/users/diodesign/projects/1) with to-do items and long-term plans.
 
 - 🌱 I’m learning:
-  - Chinese as a second language
+  - Chinese as a second language. 我正在慢慢学习中文！
   - How to configure, simulate, and verify FPGA and ASIC designs using nMigen, SystemVerilog, and related tooling
 
 - 🤔 I’m looking for help with porting diosix to other CPU architectures, such as OpenPower and Arm, and I will need help with device drivers and building a user interface to manage the hypervisor and its guests.
