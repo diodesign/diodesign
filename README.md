@@ -2,7 +2,7 @@
 
 By day, I [write and edit](https://www.theregister.com/Author/Chris-Williams) articles about enterprise technology. When I'm not working, this is the sort of thing that keeps me occupied:
 
-- 🔭 I’m implementing system services for my Rust-RISC-V bare-metal hypervisor, [diosix](https://github.com/diodesign/diosix), so that it can provide not only a user interface for folks but also abstractions for guest OSes to access the underlying hardware, such as the networking and storage.
+- 🔭 I’m implementing an RV64I linker in Rust for my Rust-RISC-V bare-metal hypervisor, [diosix](https://github.com/diodesign/diosix). I'm also bringing that project up on real hardware: it's almost fully booting on a SiFive Unleashed board.
 
 - 🌱 I’m learning Chinese as a second language. 我正在慢慢学习中文！
 
