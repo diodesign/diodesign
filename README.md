@@ -1,6 +1,6 @@
 ### Hey, you found me.
 
-By day, I [edit](https://www.theregister.com/Author/Chris-Williams) coverage of IT and enterprise technology. When I'm not working, this is the sort of thing that keeps me occupied:
+By day, I [edit](https://www.theregister.com/Author/Chris-Williams) news and feature coverage of IT and enterprise technology. When I'm not working, this is the sort of thing that keeps me occupied:
 
 - 🔭 I'm restarting work on my RISC-V bare-metal hypervisor, [diosix](https://github.com/diodesign/diosix). I want to bring that up on multiple pieces of hardware I have to hand.
 
