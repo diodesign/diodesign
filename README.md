@@ -1,9 +1,5 @@
 ### Hey, you found me.
 
-By day, I'm a technical editor at [Google Cloud](http://cloud.google.com/). When I'm not working, this is the sort of thing that keeps me occupied:
+By day, I'm a technical editor at [Google](http://cloud.google.com/). By might, I work on fun things like the open-source [Diosix](https://diosix.org/) hypervisor.
 
-- 🔭 I'm restarting work on my open-source RISC-V bare-metal hypervisor, [diosix](https://github.com/diodesign/diosix). I want to bring that up on multiple pieces of hardware I have to hand.
-
-- 💬 Ask me about RISC-V, operating system and hypervisor design, computer security, and professional writing and editing. My [personal website](https://diodesign.org) has some more information about myself and links to things I do.
-
-- 📫 How to reach me: [Bluesky](https://bsky.app/profile/diodesign.org) or [email](mailto:chrisw@diosix.org).
+[Ask me](https://diodesign.org/contact/) about RISC-V, operating system and hypervisor design, computer security, and professional writing and editing.
